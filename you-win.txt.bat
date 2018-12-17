@@ -1,5 +1,5 @@
 @echo off
-title Free Call of Duty!
+title Free Fortnite StW!
 color B
 echo Congratulations! We have randomly selected and YOU HAVE WON!
 ping n- 2 127.0.0.1>nul
