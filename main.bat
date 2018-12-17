@@ -17,4 +17,6 @@ echo Come back soon!
 ping n- 2 127.0.0.1>nul
 echo Press any button to exit.
 pause
+msg * Main.BAT test complete. Thank you for testing.
+msg * Please send feedback to Reset Studios on GitHub on how it works!
 exit
