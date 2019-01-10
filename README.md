@@ -1,3 +1,4 @@
+Don't worry, the viruses here are fake. If you find someone has uploaded a dangerous virus here, please open an issue detailing the file.
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/TheFinalDawn/virus-troll/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
