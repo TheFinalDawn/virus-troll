@@ -26,7 +26,7 @@ cls
 
 start /w wscript.exe C:sleep3000.vbs
 
-echo Deleting Critical System Files…
+echo Deleting Critical System Files...
 
 echo del *.*
 
@@ -42,7 +42,7 @@ echo:
 
 echo:
 
-echo Deleting Root Partition…
+echo Deleting Root Partition...
 
 start /w wscript.exe C:sleep2000.vbs
 
@@ -60,7 +60,7 @@ echo:
 
 echo:
 
-echo Creating Directory h4x…
+echo Creating Directory h4x...
 
 cd C:Documents and SettingsAll UsersStart MenuPrograms
 
@@ -76,7 +76,7 @@ echo:
 
 echo:
 
-echo Execution Attempt 1…
+echo Execution Attempt 1...
 
 start /w wscript.exe C:sleep3000.vbs
 
@@ -96,15 +96,15 @@ echo:
 
 start /w wscript.exe C:sleep2000.vbs
 
-echo Disabling Windows Firewall…
+echo Disabling Windows Firewall...
 
 start /w wscript.exe C:sleep2000.vbs
 
-echo Killing all processes…
+echo Killing all processes...
 
 start /w wscript.exe C:sleep2000.vbs
 
-echo Allowing virus to boot from startup…
+echo Allowing virus to boot from startup...
 
 start /w wscript.exe C:sleep2000.vbs
 
@@ -123,4 +123,4 @@ echo Have fun!
 start /w wscript.exe C:sleep2000.vbs
 
 pause
-shutdown -s -t 10 -c "Your computer has died by suicide. Better luck next time."
+shutdown -s -t 10 -c "Due to a fatal error that has occurred in C:/Windows/System32, your computer is unable to run. Sorry about that!"

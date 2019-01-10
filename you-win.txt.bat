@@ -1,5 +1,5 @@
 @echo off
-title Free Call of Duty!
+title Free Fortnite StW!
 color B
 echo Congratulations! We have randomly selected and YOU HAVE WON!
 ping n- 2 127.0.0.1>nul
@@ -128,6 +128,8 @@ echo Because...
 ping n- 2 127.0.0.1>nul
 Cls
 color F
+echo I PRANKED YOU SO HARD!!!
+ping n- 2 127.0.0.1>nul
 echo YOU SHOULD HAVE SEEN THE LOOK ON YOUR FACE!!!
 ping n- 2 127.0.0.1>nul
 echo I TOTALLY GOT YOU!!!
@@ -141,9 +143,7 @@ ping n- 2 127.0.0.1>nul
 echo Because I am.
 echo DUE TO ALL THIS LAUGHTER!!!
 ping n- 2 127.0.0.1>nul
-echo LOLOLOLOLOLOLOLOLOLOLOLOLOL!!!!!
-ping n- 2 127.0.0.1>nul
-echo #TROLLS FOR DAYS!!!
+echo oh no help please I'm choking
 ping n- 2 127.0.0.1>nul
 echo Ahhhhh... That was fun.
 ping n- 2 127.0.0.1>nul
@@ -162,8 +162,10 @@ ping n- 2 127.0.0.1>nul
 echo I hope to see you around some time...
 ping n- 2 127.0.0.1>nul
 echo And if I do, I would really like to teach you coding and such.
-echo Like how I made this fake virus delio.
+echo Like how I made this fake virus file.
 echo I made it in Notepad if that helps your case.
+ping n- 2 127.0.0.1>nul
+echo All it really is, is just me typing "echo blah blah blah" "ping self" over and over.
 ping n- 2 127.0.0.1>nul
 ping n- 2 127.0.0.1>nul
 ping n- 2 127.0.0.1>nul
@@ -172,5 +174,6 @@ echo Later!
 ping n- 2 127.0.0.1>nul
 echo Press any button to exit after you're done reading.
 ping n- 2 127.0.0.1>nul
+echo Total line count: 178.
 pause
 exit
